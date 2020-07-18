@@ -1,0 +1,96 @@
+#title{background-color: #696969;
+color: white;}
+
+h1{font-family: "Montserrat", sans-serif;
+font-weight: 900;
+font-size: 3.5rem;
+line-height: 1.5;
+}
+
+body{font-family: "Montserrat", sans-serif;
+}
+
+.container-fluid{padding: 3% 15% 0% 15%;}
+
+/* Navigation Bar */
+
+.navbar{padding-bottom: 3.5rem;
+padding-left: 0;}
+
+.navbar-brand{font-family: "Ubuntu";
+font-size: 2.5rem;
+font-weight: bold;
+}
+
+.nav-item{padding: 0 18px;}
+
+.nav-link{font-size: 1.2rem;
+font-weight: lighter;}
+
+/* Buttons */
+
+.download-button{margin: 5% 3% 5% 0;}
+
+/* Title Image */
+.title-image{border-radius: 20%;
+}
+
+/* Features */
+
+#features{padding: 3% 15% 5% 15%;
+background-color: white;
+color: #696969;}
+
+.feature-box{text-align: center;
+padding:4.5%;}
+
+.icon{color: black;
+  text-align: center;
+  margin-bottom: 1rem;
+}
+
+.icon:hover{color:#696969;;
+}
+
+h3{font-size: 1.3rem;
+font-family: "Montserrat", sans-serif;
+font-weight: bold;
+}
+
+
+
+/* Testimonial Section */
+#testimonials{padding: 3% 15% 5% 15%;
+text-align: center;
+background-color: #696969;
+color: white;}
+
+h2{font-family: "Montserrat", sans-serif;
+font-size: 2rem;
+line-height: 1.5;
+font-weight: bold;}
+
+.testimonial-img{border-radius: 10%;
+width:25%;
+margin: 20px;}
+
+.testimonial-img2{border-radius: 10%;
+width:20%;
+margin: 20px;
+}
+
+#press{text-align: center;
+background-color: #696969;
+padding-bottom: 3%;}
+
+.press-img{width: 15%;
+margin: 20px 20px 50px;}
+
+
+/* Pricing */
+
+#pricing{padding: 80px;
+text-align: center;
+color:#696969;}
+
+.pricing-col{padding: 3% 2%;}
